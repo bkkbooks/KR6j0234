@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0234/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 千轉大明陀羅尼經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1036.xml
+    old_id: T20n1036
+hash: sha256:765cac574cc026d8cd61fad8967802b2923823a370ca68c03959bc5574ccc857
